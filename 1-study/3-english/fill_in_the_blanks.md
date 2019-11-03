@@ -49,6 +49,35 @@ there. A bus came and he got on the bus at last. There were plenty of people in 
 a boy got on the bus. He was too s_____ and couldn't grip(抓) anything. Suddenly the bus stopped and 
 the boy hardly fell to the floor, he saw Mr. Li's beard and caught it.
 
+```
+
+### Many students like travelling
+
+``` txt
+Many students like travelling. They think travelling with classmates is interesting, b____ do you 
+know how to plan a school trip.
+
+B____ the trip, you must know how many students will join the trip. Choose an interesting p____. 
+Let students know how much m____ they will pay for the trip. Tell them the rules. Write dow all the 
+students' n_____ and their phone numbers.
+ 
+During the trip you must usually count the students. Divide(划分) the students into s_____ groups. 
+Tell them your phone number. Ask the students to c____ you when they are lost. 
+
+I think it can help you to plan a good school trip.
+
+```
+
+### The Sunday Paper
+``` txt
+The Sunday Paper is a very poplular paper, and a_____ everyone reads it. It has many advertisements
+and many d____ parts. Parents like the front page and the world news page. Many men also read the
+s_____ page.
+
+Most men don't read women's pages, but most women u_____ like to read them. The women's pages have
+the news a_____ parties, food, health and clothes. Most Sunday Papers have interesting stories. 
+Children like t_____ very much. Old people read the death notices. They t_____ about people who 
+have died during the week.
 
 ```
 
