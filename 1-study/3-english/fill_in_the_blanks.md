@@ -187,3 +187,25 @@ said he was happy he knew about it. He said he didn't like surprises.
 When a good thing comes out of a mistake, that's a happy accident!
   
 ```
+
+### Plastic and sea animals
+``` txt
+According to National Geographic(国家地理杂志), there are 5.52 trillion(万亿) pieces 
+of plastic rubbish floating in the sea.
+
+Sea animals have trouble telling the difference between plastic and food - especially 
+if they are simillar(相似) in s_____ or shape. Lots of whales, turtles, sea birds and 
+other creatures die after e_____ the plastic items.
+
+You can help reduce the amount of plastic in the oceans with a f_____ easy changes.
+
+* Carry a reusable bottle instead of buying single-use plastic bottles.
+* Don't use plastic straws. If you e_____ using a straw, choose one that is metal or glass.
+* Use a reusable shopping bag instead of getting a n_____ plastic bag when you buy something.
+* Always recycle plastic instead of throwing it in the rubbish bin.
+
+Even if you recycle plastic products, there still a chance they will end up(最终到达) in
+the ocean. Plastic that looks like a ring should be cut so that animals won't get caught in it.
+
+
+```
