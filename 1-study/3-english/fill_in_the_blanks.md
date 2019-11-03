@@ -78,6 +78,26 @@ Most men don't read women's pages, but most women u_____ like to read them. The 
 the news a_____ parties, food, health and clothes. Most Sunday Papers have interesting stories. 
 Children like t_____ very much. Old people read the death notices. They t_____ about people who 
 have died during the week.
+W
+```
+
+### A leader wolf
+``` txt
+Once, there lived a pack of(一群) wolves in the forest. They hunted a_____ in the forest and the 
+nearby village every day, but they did not have a leader.
+
+One day, a wolf was selected as the l_____. The leader wolf called all the o_____ wolves and said, 
+"Dear friends! What I am about to say is very important. All of us should be selfless, b_____ it is
+evil(邪恶的) to be greedy(贪婪). Therefore, I have made a law. If you find any of our brothers h_____,
+you should give what you have hunted to him."
+
+The other wolves were impressed(留下深刻的印象) by his speech. They said, "We have a fine leader. 
+We should do as he says."
+
+A donkey who was listening to them said, "Oh, my dear leader wolf! Let's b_____ with the sheep that
+you killed last night and hid in our cave."
+
+The leader wolf ran away q_____ to his cave so that no no could eat his sheep.
 
 ```
 
