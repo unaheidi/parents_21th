@@ -116,5 +116,21 @@ liked books. They told him h_____ to do something. At that time he invented the 
 
 ```
 
+### The importance of making a plan
+``` txt
+Teachers and parents always tell us the importance of making a plan: it can help us complete our
+tasks efficiently. I a_____. As a result, I have made a new plan for this term.
+
+First of all, I am going to e_____ regularly. Health is a basic factor in life. If you lose it,
+your life will be affected. In order to keep f_____, I will go jogging every morning and play 
+basketball in the afternoon.
+
+Developing good h_____ of study is also necessary. I shall gain knowledge not only from textbooks,
+but also from all kinds of a_____, such as volunteer projects. They will help broaden my horizons.
+
+Making a plan is just the f_____ step for the whole term. I will try my best to carry it out in the
+course of the new term.
+
+```
 
 
