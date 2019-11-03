@@ -100,3 +100,21 @@ The leader wolf ran away q_____ to his cave so that no no could eat his sheep.
 
 ```
 
+### A family named Franklin
+``` txt
+Many yeare ago, there was a f____ named Franklin. They lived in Boston. There were five girls
+and six b_____ in the family. On a January day in 1706 another baby boy was born. The boy's mother
+and her h______ gave the boy a name --- Benjamnin.
+
+Benjamin was the b_____ of all the children. He could read when he was five and he could write
+by the time he was seven. When he was eight, he was sent to school.
+
+In school Benjamin was good at reading and writing b_____ not good at maths.
+
+He read all of his father's books. And whenever he had a little money, he s_____ it on books. He
+liked books. They told him h_____ to do something. At that time he invented the paddles(噗) for swimming.
+
+```
+
+
+
