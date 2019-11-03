@@ -170,3 +170,20 @@ S_____ photos in newspapers and books. Try to see why some are better than other
 you learn to improve your own photos.
 
 ```
+
+### Good things come out of mistakes
+``` txt
+Do you learn from your mistakes? I hope so. But have you ever made the same mistake t_____?
+I have. Sometimes I make the same mistake three or four times!
+
+Sometimes, good things happen because of mistakes. Once I got on the w_____ train. That was
+a big mistake. But on that train. I saw a good friend. I was so happy I made that mistake!
+
+A_____ time I ruined(毁坏) a surprise. My mother planned a surprise party for my father. 
+She told me it was a secret. But I was just a little boy and I couldn't K_____ the secret. 
+I told my father a_____ the party . At first, my mother was m_____ at me. But then my father
+said he was happy he knew about it. He said he didn't like surprises.
+
+When a good thing comes out of a mistake, that's a happy accident!
+  
+```
