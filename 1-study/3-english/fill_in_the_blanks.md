@@ -78,7 +78,6 @@ Most men don't read women's pages, but most women u_____ like to read them. The 
 the news a_____ parties, food, health and clothes. Most Sunday Papers have interesting stories. 
 Children like t_____ very much. Old people read the death notices. They t_____ about people who 
 have died during the week.
-W
 ```
 
 ### A leader wolf
