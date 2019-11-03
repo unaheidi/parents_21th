@@ -133,4 +133,40 @@ course of the new term.
 
 ```
 
+### Dreams 
+``` txt
+Everybody dreams for some hours while sleeping. During your entire life, you'll spend about 25 
+years asleep and six years dreaming. But dreams are not a w_____ of time. Scientists have found
+that dreams are helpful.
 
+To test how much dreams can help learning, scientists had some students play a game called
+Tetris(俄罗斯方块) for a few hours and then a_____ them to go to sleep. Soon the students were
+dreaming about the falling Tetris shapes(图形).
+
+Interestingly, the worst Tetris players had the m_____ Tetris dreams and improved their game
+skills the most. Later, similar tests got the same results for all kinds of skills.
+
+As we dream, many important tasks are getting done. The brain decides what to keep and what to 
+f_____. In fact, it is learning all night long.
+
+A_____ important task of dreams is to help us improve our mood(情绪). If people are upset by 
+something, they often dream about it at night, and the brain tries to make the memory l_____ 
+upsetting. Usually, people who dream about what's upsetting them  f_____ better sooner than 
+those who don't.
+
+```
+
+### Taking photos
+``` txt
+Taking photos is f_____, and taking good ones is easy if you follow a few simple r_____. 
+
+Before you take a photo, think about it. Be s_____ you are close enough to your subject. 
+A pretty face against a plain background, for example, makes a good picture. But a distant
+figure lost among trees and clouds may make the photo lose its colour. In a landscape(乡村风景)
+scene, try to k_____ at least two-thirds of the picture below the line where the ground 
+m_____ the sky. For a sky scene, Keep at least two-thirds of the picture above that line.
+
+S_____ photos in newspapers and books. Try to see why some are better than others. Use what 
+you learn to improve your own photos.
+
+```
