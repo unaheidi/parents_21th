@@ -17,3 +17,38 @@ Amy finally saw what Tom had done for her. She felt so sad, because she didn't e
 chance to say "I love you" back to Tom.
 ```
 
+### British milkman
+
+``` txt
+British milkman Steve Leech saved some shops and flats with milk and won a National Bravery
+Award (奖).
+
+Leech, 35 years old, said that when he was sending out milk as u______ along Pine Street, he
+s_____ heard a loud, strange sound behind and then he saw smoke coming out of a shop in Cornwall,
+southern England. "That must be a fire, I t_____," Leech said. "Then I quickly d_____ to do 
+something. So I pushed the door in and then I shouted for the people inside. Then I started
+pouring milk e_____." He used 320 pints(品脱，液体计量单位) of milk to stop the fire. When firefighters
+reached the shop, the fire was under control.
+
+Leech helped save the l_____ of eight people in the flats above the shops. "It was h_____ work 
+opening all those bottels. But it was even harder trying to tell my boss where all the milk had gone,"
+Leech said jokingly.
+
+```
+
+### Mr.Li and his beard
+
+``` txt
+Mr.Li is a tall and strong man. He teaches P.E. in a middle school. He wears a long beard(胡子) and
+looks a_____ it well.
+
+Last Sundy, there was a big football match of the year on the playground in the m_____ of the city. 
+Mr. Li likes the game very much and he was going to w____ it. With his friend's h_____ , he got a 
+ticket a few days ago. After breakfast he hurried to the bus stop, but a lot of people were w_____ 
+there. A bus came and he got on the bus at last. There were plenty of people in it. At the next stop
+a boy got on the bus. He was too s_____ and couldn't grip(抓) anything. Suddenly the bus stopped and 
+the boy hardly fell to the floor, he saw Mr. Li's beard and caught it.
+
+
+```
+
