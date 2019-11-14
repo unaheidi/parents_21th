@@ -207,5 +207,22 @@ You can help reduce the amount of plastic in the oceans with a f_____ easy chang
 Even if you recycle plastic products, there still a chance they will end up(最终到达) in
 the ocean. Plastic that looks like a ring should be cut so that animals won't get caught in it.
 
+```
+
+### An elephant and a tailor
+``` txt
+Once there lived an elephant and a tailor(裁缝) in a village. The tailor always g______ something
+to the elephant to eat. The two became food friends.
+
+one day, the elephant went to a river to take a bath. He passed the tailor's shop. As usual he put his 
+nose i______ the shop. The tailor was not happy because he had a quarrel with a customer.
+
+The tailor didn't give him a_____ to eat. Instead he put a needle(针) into his nose. The elephant was very
+a_____ and went away silently.
+
+Then the elephant reached the river and took his bath. After that he f_____ dirty water in his nose.
+O_____ his way back he stopped at the tailor's shop. He threw all the dirty water in the shop. All the clothes
+were destroyed. The tailor had to bear a h_____ loss.
 
 ```
+
