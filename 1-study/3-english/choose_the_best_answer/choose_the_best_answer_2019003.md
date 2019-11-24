@@ -23,3 +23,13 @@
    A. breaks          B. breaking         C. broke            D. break
 1. Have you got the programme ________ the Open Day?
    A. in              B. at               C. on               D. for
+1. ________ old man over there is my grandpa.
+   A. A               B. An               C. The              D. /
+1. -- ________ is the man in black?
+   -- He is a businessman.
+   A. Who             B. What             C. Which            D. Whose
+1. The library is ________ the cinema. We can walk there.
+   A. far away        B. far from         C. near             D. near at
+1. On Mike's way ________ home, he saw a lot of shops.
+   A. to              B. /                C. from             D. at
+
